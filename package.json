@@ -1,6 +1,6 @@
 {
   "name": "terraform-exemplo-basico-gcp",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Repositório exemplo para uso didático. Aprendizado de Terraform com GCP",
   "main": "index.js",
   "scripts": {

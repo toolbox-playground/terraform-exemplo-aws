@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.0.7 (2024-06-27)
+
+
+### Bug Fixes
+
+* **Código AMI:** Ajustando o código AMI para usar a última versão disponível do Ubuntu ([6e16601](https://github.com/toolbox-playground/terraform-exemplo-basico-gcp/commit/6e16601d7549cea39f9c3bd530877a1bf7df676b))
+
 ## 1.0.6 (2024-05-28)
 
 ## 1.0.5 (2024-05-20)
