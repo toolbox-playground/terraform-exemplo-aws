@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.2.0 (2024-07-02)
+
+
+### Features
+
+* adicionando práticas de aws-s3 ([2ecf3ba](https://github.com/toolbox-playground/terraform-exemplo-basico-gcp/commit/2ecf3bad307629a2c0fee1e8b6f275ca57f120ed))
+
 ## 1.1.0 (2024-06-30)
 
 ## 1.0.7 (2024-06-27)
