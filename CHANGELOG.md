@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.3.0 (2024-07-02)
+
+
+### Features
+
+* adicionando prática de vm ([e91c218](https://github.com/toolbox-playground/terraform-exemplo-basico-gcp/commit/e91c218afe39b41ddca0979bdb660c4b875f61e5))
+
 ## 1.2.0 (2024-07-02)
 
 
