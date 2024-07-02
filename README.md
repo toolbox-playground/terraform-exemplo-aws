@@ -48,11 +48,11 @@ Em casos de dúvidas, siga o passo-a-passo [aqui](https://registry.terraform.io/
 Aqui encontraremos um cenário simples, onde todos os parametros já estarão no arquivo main.tf.\
 *2 - Variaveis dinâmicas*\
 Aqui encontraremos um cenário onde passaremos os dados através de um arquivo ou por command-line.\
-*3 - Depends On*\
+*3 - Depends On* WIP \ 
 Aqui encontraremos um cenário onde a criação do recurso depende da criação de outro recurso.\
-*4 - Deletando Recurso*\
+*4 - Deletando Recurso* WIP \
 Aqui, removeremos um projeto do arquivo main.tf.\
-*5 - Limpando todos recursos*\
+*5 - Limpando todos recursos* WIP \
 Aqui usaremos o destroy para eliminar nossa infra.\
 
 ## Contribuindo
